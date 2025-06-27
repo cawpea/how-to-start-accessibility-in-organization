@@ -1,6 +1,6 @@
 # 組織で取り組むアクセシビリティのはじめ方
 
-本資料は、2025 年 6 月 27 日に行われた「[各社の事例に学ぶ！アクセシビリティを向上させる開発プロセス](https://findy.connpass.com/event/358706/)」のイベントで発表した資料の文字起こし版です。
+本資料は、2025 年 6 月 27 日に行われた「[各社の事例に学ぶ！アクセシビリティを向上させる開発プロセス](https://findy.connpass.com/event/358706/)」のイベントで[発表した資料](https://speakerdeck.com/masakiohsumi/zu-zhi-dequ-rizu-muakusesibiriteinohazimefang)の文字起こし版です。
 
 ---
 
